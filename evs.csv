@@ -1,0 +1,327 @@
+type,created_at,actor,repo,name
+PullRequestReviewCommentEvent,2023-09-01 13:06:42,Yuri Prykhodko,solid-software/worklog,Task/WLOG - 366 Adding screen to fill FullName if there isn't
+PullRequestReviewCommentEvent,2023-09-01 13:08:42,Yuri Prykhodko,solid-software/worklog,Task/WLOG - 366 Adding screen to fill FullName if there isn't
+PullRequestReviewEvent,2023-09-01 13:09:06,Yuri Prykhodko,solid-software/worklog,Task/WLOG - 366 Adding screen to fill FullName if there isn't
+PullRequestReviewEvent,2023-09-01 13:09:06,Yuri Prykhodko,solid-software/worklog,Task/WLOG - 366 Adding screen to fill FullName if there isn't
+PullRequestReviewEvent,2023-08-30 18:17:19,Yuri Prykhodko,solid-software/worklog,Task/Decompose EditWorklogDialog functions
+PullRequestReviewEvent,2023-08-30 10:02:19,Yuri Prykhodko,solid-software/worklog,Task/WLOG - 396 Sign up with email & password
+PullRequestReviewCommentEvent,2023-08-30 09:42:25,Yuri Prykhodko,solid-software/worklog,Task/WLOG - 396 Sign up with email & password
+PullRequestReviewEvent,2023-08-30 09:48:07,Yuri Prykhodko,solid-software/worklog,Task/WLOG - 396 Sign up with email & password
+PullRequestReviewEvent,2023-08-30 09:48:07,Yuri Prykhodko,solid-software/worklog,Task/WLOG - 396 Sign up with email & password
+PullRequestReviewCommentEvent,2023-08-30 09:39:16,Yuri Prykhodko,solid-software/worklog,Task/WLOG - 396 Sign up with email & password
+PullRequestReviewEvent,2023-08-30 09:39:17,Yuri Prykhodko,solid-software/worklog,Task/WLOG - 396 Sign up with email & password
+PullRequestReviewCommentEvent,2023-08-29 18:57:04,Yuri Prykhodko,solid-software/worklog,Deny anon users to see DB structure with anon key
+PullRequestReviewEvent,2023-08-29 18:57:16,Yuri Prykhodko,solid-software/worklog,Deny anon users to see DB structure with anon key
+PullRequestReviewEvent,2023-08-29 18:57:16,Yuri Prykhodko,solid-software/worklog,Deny anon users to see DB structure with anon key
+PullRequestReviewCommentEvent,2023-08-29 18:54:15,Yuri Prykhodko,solid-software/worklog,Task/WLOG - 396 Sign up with email & password
+PullRequestReviewEvent,2023-08-29 18:54:16,Yuri Prykhodko,solid-software/worklog,Task/WLOG - 396 Sign up with email & password
+PullRequestReviewCommentEvent,2023-08-29 18:52:30,Yuri Prykhodko,solid-software/worklog,Task/Decompose EditWorklogDialog functions
+PullRequestReviewEvent,2023-08-29 18:52:31,Yuri Prykhodko,solid-software/worklog,Task/Decompose EditWorklogDialog functions
+PullRequestReviewEvent,2023-08-29 15:18:13,Yuri Prykhodko,solid-software/worklog,Task/WLOG - 396 Sign up with email & password
+PullRequestReviewCommentEvent,2023-08-29 15:18:12,Yuri Prykhodko,solid-software/worklog,Task/WLOG - 396 Sign up with email & password
+PullRequestReviewCommentEvent,2023-08-29 14:17:28,Yuri Prykhodko,solid-software/worklog,Task/WLOG - 396 Sign up with email & password
+PullRequestReviewEvent,2023-08-29 14:17:29,Yuri Prykhodko,solid-software/worklog,Task/WLOG - 396 Sign up with email & password
+PullRequestReviewEvent,2023-08-28 16:55:13,Yuri Prykhodko,solid-software/worklog,WLOG-397 Enter in project name field - should start tracking if project was not changed
+PullRequestReviewCommentEvent,2023-08-28 16:49:52,Yuri Prykhodko,solid-software/worklog,Task/Decompose EditWorklogDialog functions
+PullRequestReviewEvent,2023-08-28 16:49:57,Yuri Prykhodko,solid-software/worklog,Task/Decompose EditWorklogDialog functions
+PullRequestReviewEvent,2023-08-28 16:49:57,Yuri Prykhodko,solid-software/worklog,Task/Decompose EditWorklogDialog functions
+PullRequestReviewCommentEvent,2023-08-28 16:49:29,Yuri Prykhodko,solid-software/worklog,Task/Decompose EditWorklogDialog functions
+PullRequestReviewEvent,2023-08-28 16:49:30,Yuri Prykhodko,solid-software/worklog,Task/Decompose EditWorklogDialog functions
+PullRequestReviewCommentEvent,2023-08-28 16:47:39,Yuri Prykhodko,solid-software/worklog,Task/Decompose EditWorklogDialog functions
+PullRequestReviewEvent,2023-08-28 16:47:40,Yuri Prykhodko,solid-software/worklog,Task/Decompose EditWorklogDialog functions
+PullRequestReviewEvent,2023-08-28 16:40:52,Yuri Prykhodko,solid-software/worklog,Task/Remove workspace_invite_type
+PullRequestReviewCommentEvent,2023-08-28 16:37:43,Yuri Prykhodko,solid-software/worklog,Task/WLOG - 396 Sign up with email & password
+PullRequestReviewEvent,2023-08-28 16:39:28,Yuri Prykhodko,solid-software/worklog,Task/WLOG - 396 Sign up with email & password
+PullRequestReviewEvent,2023-08-28 16:39:28,Yuri Prykhodko,solid-software/worklog,Task/WLOG - 396 Sign up with email & password
+PullRequestReviewCommentEvent,2023-08-28 16:26:38,Yuri Prykhodko,solid-software/worklog,WLOG-361 Soft deletion
+PullRequestReviewEvent,2023-08-28 16:28:25,Yuri Prykhodko,solid-software/worklog,WLOG-361 Soft deletion
+PullRequestReviewEvent,2023-08-28 16:28:25,Yuri Prykhodko,solid-software/worklog,WLOG-361 Soft deletion
+PullRequestReviewEvent,2023-08-23 19:19:44,Yuri Prykhodko,solid-software/worklog,Hotfix/Bugs encountered when trying to save the worklog
+PullRequestReviewCommentEvent,2023-08-23 19:15:01,Yuri Prykhodko,solid-software/worklog,Hotfix/Bugs encountered when trying to save the worklog
+PullRequestReviewCommentEvent,2023-08-23 19:12:51,Yuri Prykhodko,solid-software/worklog,Hotfix/Bugs encountered when trying to save the worklog
+PullRequestReviewEvent,2023-08-23 19:19:44,Yuri Prykhodko,solid-software/worklog,Hotfix/Bugs encountered when trying to save the worklog
+PullRequestReviewCommentEvent,2023-08-23 19:06:31,Yuri Prykhodko,solid-software/worklog,Hotfix/Bugs encountered when trying to save the worklog
+PullRequestReviewEvent,2023-08-23 19:06:32,Yuri Prykhodko,solid-software/worklog,Hotfix/Bugs encountered when trying to save the worklog
+PullRequestReviewCommentEvent,2023-08-23 19:05:10,Yuri Prykhodko,solid-software/worklog,Hotfix/Bugs encountered when trying to save the worklog
+PullRequestReviewEvent,2023-08-23 19:05:12,Yuri Prykhodko,solid-software/worklog,Hotfix/Bugs encountered when trying to save the worklog
+PullRequestReviewEvent,2023-08-23 19:00:26,Yuri Prykhodko,solid-software/worklog,Bug/Worklog duplication
+PullRequestReviewEvent,2023-08-23 15:51:01,Yuri Prykhodko,solid-software/worklog,WLOG - 396 Sign Up Migration
+PullRequestReviewCommentEvent,2023-08-23 15:40:28,Yuri Prykhodko,solid-software/worklog,WLOG - 396 Sign Up Migration
+PullRequestReviewEvent,2023-08-23 15:40:29,Yuri Prykhodko,solid-software/worklog,WLOG - 396 Sign Up Migration
+PullRequestReviewEvent,2023-08-23 15:10:26,Yuri Prykhodko,solid-software/worklog,Bug/Grey screen
+IssueCommentEvent,2023-08-23 13:05:37,Yuri Prykhodko,solid-software/worklog,WLOG - 396 Sign Up Migration
+PullRequestReviewCommentEvent,2023-08-23 13:03:08,Yuri Prykhodko,solid-software/worklog,WLOG - 396 Sign Up Migration
+PullRequestReviewEvent,2023-08-23 13:03:09,Yuri Prykhodko,solid-software/worklog,WLOG - 396 Sign Up Migration
+PullRequestEvent,2023-09-01 19:18:58,Yuri Prykhodko,solid-software/solid_lints,Feature/avoid unnecessary type assertions
+PullRequestReviewEvent,2023-09-01 19:18:47,Yuri Prykhodko,solid-software/solid_lints,Feature/avoid unnecessary type assertions
+PullRequestReviewCommentEvent,2023-09-01 19:16:34,Yuri Prykhodko,solid-software/solid_lints,Feature/avoid unnecessary type assertions
+PullRequestReviewEvent,2023-09-01 19:16:35,Yuri Prykhodko,solid-software/solid_lints,Feature/avoid unnecessary type assertions
+PullRequestReviewEvent,2023-09-01 18:03:14,Yuri Prykhodko,solid-software/solid_lints,Feature/avoid unnecessary type assertions
+PullRequestReviewCommentEvent,2023-09-01 18:03:13,Yuri Prykhodko,solid-software/solid_lints,Feature/avoid unnecessary type assertions
+PullRequestReviewCommentEvent,2023-09-01 18:01:16,Yuri Prykhodko,solid-software/solid_lints,Feature/avoid unnecessary type assertions
+PullRequestReviewEvent,2023-09-01 18:01:16,Yuri Prykhodko,solid-software/solid_lints,Feature/avoid unnecessary type assertions
+PullRequestReviewCommentEvent,2023-09-01 16:17:15,Yuri Prykhodko,solid-software/solid_lints,Feature/avoid unnecessary type assertions
+PullRequestReviewEvent,2023-09-01 16:17:16,Yuri Prykhodko,solid-software/solid_lints,Feature/avoid unnecessary type assertions
+PullRequestReviewCommentEvent,2023-09-01 16:03:23,Yuri Prykhodko,solid-software/solid_lints,Feature/avoid unnecessary type assertions
+PullRequestReviewEvent,2023-09-01 16:03:24,Yuri Prykhodko,solid-software/solid_lints,Feature/avoid unnecessary type assertions
+PullRequestReviewCommentEvent,2023-09-01 15:53:25,Yuri Prykhodko,solid-software/solid_lints,Feature/avoid unnecessary type assertions
+PullRequestReviewEvent,2023-09-01 15:58:21,Yuri Prykhodko,solid-software/solid_lints,Feature/avoid unnecessary type assertions
+PullRequestReviewEvent,2023-09-01 15:58:21,Yuri Prykhodko,solid-software/solid_lints,Feature/avoid unnecessary type assertions
+PullRequestReviewCommentEvent,2023-09-01 15:50:53,Yuri Prykhodko,solid-software/solid_lints,Feature/avoid unnecessary type assertions
+PullRequestReviewEvent,2023-09-01 15:50:54,Yuri Prykhodko,solid-software/solid_lints,Feature/avoid unnecessary type assertions
+PullRequestReviewEvent,2023-09-01 15:46:31,Yuri Prykhodko,solid-software/solid_lints,Feature/avoid unnecessary type assertions
+PullRequestReviewCommentEvent,2023-09-01 15:46:30,Yuri Prykhodko,solid-software/solid_lints,Feature/avoid unnecessary type assertions
+PullRequestReviewCommentEvent,2023-09-01 15:21:59,Yuri Prykhodko,solid-software/solid_lints,Feature/avoid unnecessary type assertions
+PullRequestReviewEvent,2023-09-01 15:22:01,Yuri Prykhodko,solid-software/solid_lints,Feature/avoid unnecessary type assertions
+PullRequestReviewCommentEvent,2023-09-01 15:21:33,Yuri Prykhodko,solid-software/solid_lints,Feature/avoid unnecessary type assertions
+PullRequestReviewEvent,2023-09-01 15:21:34,Yuri Prykhodko,solid-software/solid_lints,Feature/avoid unnecessary type assertions
+PullRequestReviewCommentEvent,2023-09-01 13:06:42,Yuri Prykhodko,solid-software/worklog,Task/WLOG - 366 Adding screen to fill FullName if there isn't
+PullRequestReviewCommentEvent,2023-09-01 13:08:42,Yuri Prykhodko,solid-software/worklog,Task/WLOG - 366 Adding screen to fill FullName if there isn't
+PullRequestReviewEvent,2023-09-01 13:09:06,Yuri Prykhodko,solid-software/worklog,Task/WLOG - 366 Adding screen to fill FullName if there isn't
+PullRequestReviewEvent,2023-09-01 13:09:06,Yuri Prykhodko,solid-software/worklog,Task/WLOG - 366 Adding screen to fill FullName if there isn't
+PullRequestReviewCommentEvent,2023-09-01 12:30:14,Yuri Prykhodko,solid-software/solid_lints,Feature/avoid unnecessary type assertions
+PullRequestReviewCommentEvent,2023-09-01 12:05:19,Yuri Prykhodko,solid-software/solid_lints,Feature/avoid unnecessary type assertions
+PullRequestReviewCommentEvent,2023-09-01 12:43:51,Yuri Prykhodko,solid-software/solid_lints,Feature/avoid unnecessary type assertions
+PullRequestReviewCommentEvent,2023-09-01 12:36:50,Yuri Prykhodko,solid-software/solid_lints,Feature/avoid unnecessary type assertions
+PullRequestReviewCommentEvent,2023-09-01 12:40:28,Yuri Prykhodko,solid-software/solid_lints,Feature/avoid unnecessary type assertions
+PullRequestReviewCommentEvent,2023-09-01 12:39:05,Yuri Prykhodko,solid-software/solid_lints,Feature/avoid unnecessary type assertions
+PullRequestReviewCommentEvent,2023-09-01 12:30:56,Yuri Prykhodko,solid-software/solid_lints,Feature/avoid unnecessary type assertions
+PullRequestReviewCommentEvent,2023-09-01 12:35:28,Yuri Prykhodko,solid-software/solid_lints,Feature/avoid unnecessary type assertions
+PullRequestReviewCommentEvent,2023-09-01 12:32:58,Yuri Prykhodko,solid-software/solid_lints,Feature/avoid unnecessary type assertions
+PullRequestReviewCommentEvent,2023-09-01 12:09:32,Yuri Prykhodko,solid-software/solid_lints,Feature/avoid unnecessary type assertions
+PullRequestReviewCommentEvent,2023-09-01 12:21:27,Yuri Prykhodko,solid-software/solid_lints,Feature/avoid unnecessary type assertions
+PullRequestReviewCommentEvent,2023-09-01 12:06:49,Yuri Prykhodko,solid-software/solid_lints,Feature/avoid unnecessary type assertions
+PullRequestReviewCommentEvent,2023-09-01 12:00:34,Yuri Prykhodko,solid-software/solid_lints,Feature/avoid unnecessary type assertions
+PullRequestReviewCommentEvent,2023-09-01 12:06:03,Yuri Prykhodko,solid-software/solid_lints,Feature/avoid unnecessary type assertions
+PullRequestReviewCommentEvent,2023-09-01 11:59:46,Yuri Prykhodko,solid-software/solid_lints,Feature/avoid unnecessary type assertions
+PullRequestReviewEvent,2023-09-01 12:44:00,Yuri Prykhodko,solid-software/solid_lints,Feature/avoid unnecessary type assertions
+PullRequestReviewCommentEvent,2023-09-01 12:03:03,Yuri Prykhodko,solid-software/solid_lints,Feature/avoid unnecessary type assertions
+PullRequestReviewEvent,2023-09-01 12:43:59,Yuri Prykhodko,solid-software/solid_lints,Feature/avoid unnecessary type assertions
+PullRequestEvent,2023-08-31 12:01:16,Yuri Prykhodko,solid-software/solid_lints,Add the 'double-literal-format' rule
+PullRequestReviewEvent,2023-08-31 12:00:55,Yuri Prykhodko,solid-software/solid_lints,Add the 'double-literal-format' rule
+PullRequestReviewEvent,2023-08-31 07:38:54,Yuri Prykhodko,solid-software/solid_lints,Add the 'double-literal-format' rule
+PullRequestReviewEvent,2023-08-31 07:38:21,Yuri Prykhodko,solid-software/solid_lints,Add the 'double-literal-format' rule
+PullRequestReviewCommentEvent,2023-08-31 07:37:00,Yuri Prykhodko,solid-software/solid_lints,Add the 'double-literal-format' rule
+PullRequestReviewEvent,2023-08-31 07:38:21,Yuri Prykhodko,solid-software/solid_lints,Add the 'double-literal-format' rule
+PullRequestReviewEvent,2023-08-30 18:17:19,Yuri Prykhodko,solid-software/worklog,Task/Decompose EditWorklogDialog functions
+PullRequestReviewEvent,2023-08-30 15:11:22,Yuri Prykhodko,solid-software/solid_lints,Add the 'double-literal-format' rule
+PullRequestReviewCommentEvent,2023-08-30 15:07:44,Yuri Prykhodko,solid-software/solid_lints,Add the 'double-literal-format' rule
+PullRequestReviewCommentEvent,2023-08-30 15:06:14,Yuri Prykhodko,solid-software/solid_lints,Add the 'double-literal-format' rule
+PullRequestReviewCommentEvent,2023-08-30 15:10:03,Yuri Prykhodko,solid-software/solid_lints,Add the 'double-literal-format' rule
+PullRequestReviewEvent,2023-08-30 15:11:22,Yuri Prykhodko,solid-software/solid_lints,Add the 'double-literal-format' rule
+PullRequestReviewCommentEvent,2023-08-30 15:07:06,Yuri Prykhodko,solid-software/solid_lints,Add the 'double-literal-format' rule
+PullRequestReviewCommentEvent,2023-08-30 15:10:40,Yuri Prykhodko,solid-software/solid_lints,Add the 'double-literal-format' rule
+PullRequestReviewEvent,2023-08-30 10:02:19,Yuri Prykhodko,solid-software/worklog,Task/WLOG - 396 Sign up with email & password
+PullRequestReviewCommentEvent,2023-08-30 09:42:25,Yuri Prykhodko,solid-software/worklog,Task/WLOG - 396 Sign up with email & password
+PullRequestReviewEvent,2023-08-30 09:48:07,Yuri Prykhodko,solid-software/worklog,Task/WLOG - 396 Sign up with email & password
+PullRequestReviewEvent,2023-08-30 09:48:07,Yuri Prykhodko,solid-software/worklog,Task/WLOG - 396 Sign up with email & password
+PullRequestReviewCommentEvent,2023-08-30 09:39:16,Yuri Prykhodko,solid-software/worklog,Task/WLOG - 396 Sign up with email & password
+PullRequestReviewEvent,2023-08-30 09:39:17,Yuri Prykhodko,solid-software/worklog,Task/WLOG - 396 Sign up with email & password
+PullRequestReviewCommentEvent,2023-08-29 18:57:04,Yuri Prykhodko,solid-software/worklog,Deny anon users to see DB structure with anon key
+PullRequestReviewEvent,2023-08-29 18:57:16,Yuri Prykhodko,solid-software/worklog,Deny anon users to see DB structure with anon key
+PullRequestReviewEvent,2023-08-29 18:57:16,Yuri Prykhodko,solid-software/worklog,Deny anon users to see DB structure with anon key
+PullRequestReviewCommentEvent,2023-08-29 18:54:15,Yuri Prykhodko,solid-software/worklog,Task/WLOG - 396 Sign up with email & password
+PullRequestReviewEvent,2023-08-29 18:54:16,Yuri Prykhodko,solid-software/worklog,Task/WLOG - 396 Sign up with email & password
+PullRequestReviewCommentEvent,2023-08-29 18:52:30,Yuri Prykhodko,solid-software/worklog,Task/Decompose EditWorklogDialog functions
+PullRequestReviewEvent,2023-08-29 18:52:31,Yuri Prykhodko,solid-software/worklog,Task/Decompose EditWorklogDialog functions
+PullRequestReviewEvent,2023-08-29 15:18:13,Yuri Prykhodko,solid-software/worklog,Task/WLOG - 396 Sign up with email & password
+PullRequestReviewCommentEvent,2023-08-29 15:18:12,Yuri Prykhodko,solid-software/worklog,Task/WLOG - 396 Sign up with email & password
+PullRequestReviewCommentEvent,2023-08-29 14:17:28,Yuri Prykhodko,solid-software/worklog,Task/WLOG - 396 Sign up with email & password
+PullRequestReviewEvent,2023-08-29 14:17:29,Yuri Prykhodko,solid-software/worklog,Task/WLOG - 396 Sign up with email & password
+PullRequestReviewEvent,2023-08-28 16:55:13,Yuri Prykhodko,solid-software/worklog,WLOG-397 Enter in project name field - should start tracking if project was not changed
+PullRequestReviewCommentEvent,2023-08-28 16:49:52,Yuri Prykhodko,solid-software/worklog,Task/Decompose EditWorklogDialog functions
+PullRequestReviewEvent,2023-08-28 16:49:57,Yuri Prykhodko,solid-software/worklog,Task/Decompose EditWorklogDialog functions
+PullRequestReviewEvent,2023-08-28 16:49:57,Yuri Prykhodko,solid-software/worklog,Task/Decompose EditWorklogDialog functions
+PullRequestReviewCommentEvent,2023-08-28 16:49:29,Yuri Prykhodko,solid-software/worklog,Task/Decompose EditWorklogDialog functions
+PullRequestReviewEvent,2023-08-28 16:49:30,Yuri Prykhodko,solid-software/worklog,Task/Decompose EditWorklogDialog functions
+PullRequestReviewCommentEvent,2023-08-28 16:47:39,Yuri Prykhodko,solid-software/worklog,Task/Decompose EditWorklogDialog functions
+PullRequestReviewEvent,2023-08-28 16:47:40,Yuri Prykhodko,solid-software/worklog,Task/Decompose EditWorklogDialog functions
+PullRequestReviewEvent,2023-08-28 16:40:52,Yuri Prykhodko,solid-software/worklog,Task/Remove workspace_invite_type
+PullRequestReviewCommentEvent,2023-08-28 16:37:43,Yuri Prykhodko,solid-software/worklog,Task/WLOG - 396 Sign up with email & password
+PullRequestReviewEvent,2023-08-28 16:39:28,Yuri Prykhodko,solid-software/worklog,Task/WLOG - 396 Sign up with email & password
+PullRequestReviewEvent,2023-08-28 16:39:28,Yuri Prykhodko,solid-software/worklog,Task/WLOG - 396 Sign up with email & password
+PullRequestReviewCommentEvent,2023-08-28 16:26:38,Yuri Prykhodko,solid-software/worklog,WLOG-361 Soft deletion
+PullRequestReviewEvent,2023-08-28 16:28:25,Yuri Prykhodko,solid-software/worklog,WLOG-361 Soft deletion
+PullRequestReviewEvent,2023-08-28 16:28:25,Yuri Prykhodko,solid-software/worklog,WLOG-361 Soft deletion
+PullRequestReviewEvent,2023-08-23 19:19:44,Yuri Prykhodko,solid-software/worklog,Hotfix/Bugs encountered when trying to save the worklog
+PullRequestReviewCommentEvent,2023-08-23 19:15:01,Yuri Prykhodko,solid-software/worklog,Hotfix/Bugs encountered when trying to save the worklog
+PullRequestReviewCommentEvent,2023-08-23 19:12:51,Yuri Prykhodko,solid-software/worklog,Hotfix/Bugs encountered when trying to save the worklog
+PullRequestReviewEvent,2023-08-23 19:19:44,Yuri Prykhodko,solid-software/worklog,Hotfix/Bugs encountered when trying to save the worklog
+PullRequestReviewCommentEvent,2023-08-23 19:06:31,Yuri Prykhodko,solid-software/worklog,Hotfix/Bugs encountered when trying to save the worklog
+PullRequestReviewEvent,2023-08-23 19:06:32,Yuri Prykhodko,solid-software/worklog,Hotfix/Bugs encountered when trying to save the worklog
+PullRequestReviewCommentEvent,2023-08-23 19:05:10,Yuri Prykhodko,solid-software/worklog,Hotfix/Bugs encountered when trying to save the worklog
+PullRequestReviewEvent,2023-08-23 19:05:12,Yuri Prykhodko,solid-software/worklog,Hotfix/Bugs encountered when trying to save the worklog
+PullRequestReviewEvent,2023-08-23 19:00:26,Yuri Prykhodko,solid-software/worklog,Bug/Worklog duplication
+PullRequestReviewEvent,2023-08-23 15:51:01,Yuri Prykhodko,solid-software/worklog,WLOG - 396 Sign Up Migration
+PullRequestReviewCommentEvent,2023-08-23 15:40:28,Yuri Prykhodko,solid-software/worklog,WLOG - 396 Sign Up Migration
+PullRequestReviewEvent,2023-08-23 15:40:29,Yuri Prykhodko,solid-software/worklog,WLOG - 396 Sign Up Migration
+PullRequestReviewEvent,2023-08-23 15:10:26,Yuri Prykhodko,solid-software/worklog,Bug/Grey screen
+IssueCommentEvent,2023-08-23 13:05:37,Yuri Prykhodko,solid-software/worklog,WLOG - 396 Sign Up Migration
+PullRequestReviewCommentEvent,2023-08-23 13:03:08,Yuri Prykhodko,solid-software/worklog,WLOG - 396 Sign Up Migration
+PullRequestReviewEvent,2023-08-23 13:03:09,Yuri Prykhodko,solid-software/worklog,WLOG - 396 Sign Up Migration
+PullRequestReviewEvent,2023-08-17 09:49:18,Yuri Prykhodko,solid-software/worklog,WLOG-396 Preparing for the registration procedure
+PullRequestReviewCommentEvent,2023-08-17 09:42:46,Yuri Prykhodko,solid-software/worklog,WLOG-396 Preparing for the registration procedure
+PullRequestReviewEvent,2023-08-17 09:49:06,Yuri Prykhodko,solid-software/worklog,WLOG-396 Preparing for the registration procedure
+PullRequestReviewEvent,2023-08-17 09:49:06,Yuri Prykhodko,solid-software/worklog,WLOG-396 Preparing for the registration procedure
+PullRequestReviewEvent,2023-08-17 09:12:04,Yuri Prykhodko,solid-software/solid_lints,0.0.19
+PullRequestReviewCommentEvent,2023-08-17 09:12:03,Yuri Prykhodko,solid-software/solid_lints,0.0.19
+PullRequestReviewCommentEvent,2023-08-17 09:10:29,Yuri Prykhodko,solid-software/solid_lints,0.0.19
+PullRequestReviewEvent,2023-08-17 09:10:29,Yuri Prykhodko,solid-software/solid_lints,0.0.19
+PullRequestReviewEvent,2023-08-15 13:46:23,Yuri Prykhodko,solid-software/worklog,SubscriptionCard
+PullRequestReviewCommentEvent,2023-08-15 13:46:21,Yuri Prykhodko,solid-software/worklog,SubscriptionCard
+PullRequestEvent,2023-08-15 11:49:55,Yuri Prykhodko,solid-software/solid_lints,Rename models
+PullRequestReviewEvent,2023-08-15 11:49:16,Yuri Prykhodko,solid-software/worklog,`UserEditingDialog` refactor
+PullRequestReviewEvent,2023-08-14 19:26:00,Yuri Prykhodko,solid-software/worklog,bugfix: supervisor sees task as own
+PullRequestReviewEvent,2023-08-14 19:20:48,Yuri Prykhodko,solid-software/worklog,TrialPopup
+PullRequestReviewCommentEvent,2023-08-14 19:16:44,Yuri Prykhodko,solid-software/worklog,TrialPopup
+PullRequestReviewEvent,2023-08-14 19:16:45,Yuri Prykhodko,solid-software/worklog,TrialPopup
+PullRequestReviewEvent,2023-08-14 19:15:56,Yuri Prykhodko,solid-software/worklog,cherrypick from `payment-master`
+PullRequestReviewCommentEvent,2023-08-14 19:14:47,Yuri Prykhodko,solid-software/worklog,`UserEditingDialog` refactor
+PullRequestReviewEvent,2023-08-14 19:15:06,Yuri Prykhodko,solid-software/worklog,`UserEditingDialog` refactor
+PullRequestReviewEvent,2023-08-14 19:15:06,Yuri Prykhodko,solid-software/worklog,`UserEditingDialog` refactor
+PullRequestEvent,2023-08-14 19:01:50,Yuri Prykhodko,solid-software/solid_lints,Rename models
+PullRequestEvent,2023-08-14 18:53:54,Yuri Prykhodko,solid-software/solid_lints,Cleanup of lint creation
+PullRequestEvent,2023-08-14 18:38:42,Yuri Prykhodko,solid-software/flutter_vlc_player,Fix CI by migrating to solid lints 0.0.18
+PullRequestEvent,2023-08-14 18:35:19,Yuri Prykhodko,solid-software/flutter_vlc_player,Fix CI by migrating to solid lints 0.0.18
+PullRequestEvent,2023-08-14 18:27:33,Yuri Prykhodko,solid-software/flutter_vlc_player,Task/Add badge
+PullRequestEvent,2023-08-14 18:26:28,Yuri Prykhodko,solid-software/flutter_project_template,Task/Add badge
+PullRequestReviewEvent,2023-08-14 18:26:15,Yuri Prykhodko,solid-software/flutter_project_template,Task/Add badge
+PullRequestEvent,2023-08-14 18:25:50,Yuri Prykhodko,solid-software/languagetool_textfield,Task/Add badge
+PullRequestReviewEvent,2023-08-14 18:25:42,Yuri Prykhodko,solid-software/languagetool_textfield,Task/Add badge
+PullRequestReviewEvent,2023-08-14 18:24:44,Yuri Prykhodko,solid-software/flutter_vlc_player,Task/Add badge
+PullRequestReviewCommentEvent,2023-08-14 15:00:15,Yuri Prykhodko,solid-software/worklog,`UserEditingDialog` refactor
+PullRequestReviewEvent,2023-08-14 15:00:20,Yuri Prykhodko,solid-software/worklog,`UserEditingDialog` refactor
+PullRequestReviewEvent,2023-08-14 15:00:20,Yuri Prykhodko,solid-software/worklog,`UserEditingDialog` refactor
+PullRequestReviewCommentEvent,2023-08-14 14:59:35,Yuri Prykhodko,solid-software/worklog,`UserEditingDialog` refactor
+PullRequestReviewEvent,2023-08-14 13:07:36,Yuri Prykhodko,solid-software/worklog,WLOG-390 Missing point with color in the project field in the header after focusing on the project field in dropdown
+PullRequestReviewCommentEvent,2023-08-14 13:07:35,Yuri Prykhodko,solid-software/worklog,WLOG-390 Missing point with color in the project field in the header after focusing on the project field in dropdown
+PullRequestReviewCommentEvent,2023-08-14 13:05:03,Yuri Prykhodko,solid-software/worklog,WLOG-361 User still exist in Administrator team table after User deleted own account
+PullRequestReviewEvent,2023-08-14 13:05:04,Yuri Prykhodko,solid-software/worklog,WLOG-361 User still exist in Administrator team table after User deleted own account
+PullRequestReviewCommentEvent,2023-08-14 13:03:49,Yuri Prykhodko,solid-software/worklog,WLOG-361 User still exist in Administrator team table after User deleted own account
+PullRequestReviewEvent,2023-08-14 13:03:50,Yuri Prykhodko,solid-software/worklog,WLOG-361 User still exist in Administrator team table after User deleted own account
+PullRequestReviewEvent,2023-08-14 13:00:53,Yuri Prykhodko,solid-software/solid_lints,Cleanup of lint creation
+PullRequestReviewCommentEvent,2023-08-14 13:00:52,Yuri Prykhodko,solid-software/solid_lints,Cleanup of lint creation
+IssuesEvent,2023-08-11 19:55:34,Yuri Prykhodko,solid-software/solid_lints,Narrow down exceptions for avoid_returning_widgets
+IssuesEvent,2023-08-11 19:49:47,Yuri Prykhodko,solid-software/solid_lints,Add Dart CI for lint implementations for release-v0.1.0
+IssueCommentEvent,2023-08-11 19:49:47,Yuri Prykhodko,solid-software/solid_lints,Add Dart CI for lint implementations for release-v0.1.0
+PullRequestReviewCommentEvent,2023-08-11 19:32:55,Yuri Prykhodko,solid-software/solid_lints,Cleanup of lint creation
+PullRequestReviewEvent,2023-08-11 19:32:57,Yuri Prykhodko,solid-software/solid_lints,Cleanup of lint creation
+PullRequestReviewCommentEvent,2023-08-11 19:32:40,Yuri Prykhodko,solid-software/solid_lints,Cleanup of lint creation
+PullRequestReviewEvent,2023-08-11 19:32:41,Yuri Prykhodko,solid-software/solid_lints,Cleanup of lint creation
+PullRequestReviewCommentEvent,2023-08-11 19:30:26,Yuri Prykhodko,solid-software/solid_lints,Cleanup of lint creation
+PullRequestReviewEvent,2023-08-11 19:30:27,Yuri Prykhodko,solid-software/solid_lints,Cleanup of lint creation
+PullRequestEvent,2023-08-11 15:30:05,Yuri Prykhodko,solid-software/solid_lints,Add avoid_returning_widgets lint
+PullRequestReviewEvent,2023-08-11 15:29:57,Yuri Prykhodko,solid-software/solid_lints,Add avoid_returning_widgets lint
+PullRequestReviewCommentEvent,2023-08-11 15:28:55,Yuri Prykhodko,solid-software/solid_lints,Add avoid_returning_widgets lint
+PullRequestReviewEvent,2023-08-11 15:28:56,Yuri Prykhodko,solid-software/solid_lints,Add avoid_returning_widgets lint
+PullRequestReviewEvent,2023-08-11 15:26:42,Yuri Prykhodko,solid-software/solid_lints,Add avoid_returning_widgets lint
+PullRequestReviewCommentEvent,2023-08-11 15:26:41,Yuri Prykhodko,solid-software/solid_lints,Add avoid_returning_widgets lint
+PullRequestReviewCommentEvent,2023-08-11 15:20:33,Yuri Prykhodko,solid-software/solid_lints,Add avoid_returning_widgets lint
+PullRequestReviewEvent,2023-08-11 15:20:34,Yuri Prykhodko,solid-software/solid_lints,Add avoid_returning_widgets lint
+PullRequestReviewCommentEvent,2023-08-11 15:17:21,Yuri Prykhodko,solid-software/solid_lints,Add avoid_returning_widgets lint
+PullRequestReviewEvent,2023-08-11 15:17:22,Yuri Prykhodko,solid-software/solid_lints,Add avoid_returning_widgets lint
+PullRequestReviewEvent,2023-08-11 14:52:06,Yuri Prykhodko,solid-software/solid_lints,Add avoid_returning_widgets lint
+PullRequestReviewCommentEvent,2023-08-11 14:52:05,Yuri Prykhodko,solid-software/solid_lints,Add avoid_returning_widgets lint
+PullRequestReviewCommentEvent,2023-08-11 14:47:51,Yuri Prykhodko,solid-software/solid_lints,Add avoid_returning_widgets lint
+PullRequestReviewEvent,2023-08-11 14:47:52,Yuri Prykhodko,solid-software/solid_lints,Add avoid_returning_widgets lint
+PullRequestReviewCommentEvent,2023-08-11 14:16:48,Yuri Prykhodko,solid-software/solid_lints,Add avoid_returning_widgets lint
+PullRequestReviewEvent,2023-08-11 14:16:49,Yuri Prykhodko,solid-software/solid_lints,Add avoid_returning_widgets lint
+PullRequestReviewCommentEvent,2023-08-11 14:15:26,Yuri Prykhodko,solid-software/solid_lints,Add avoid_returning_widgets lint
+PullRequestReviewEvent,2023-08-11 14:15:27,Yuri Prykhodko,solid-software/solid_lints,Add avoid_returning_widgets lint
+PullRequestEvent,2023-08-10 17:56:55,Yuri Prykhodko,solid-software/solid_lints,Add avoid_non_null_assertion lint
+PullRequestEvent,2023-08-10 17:51:49,Yuri Prykhodko,solid-software/solid_lints,Task/Add public badge
+PullRequestEvent,2023-08-10 17:50:59,Yuri Prykhodko,solid-software/solid_lints,Add avoid_global_state lint
+PullRequestReviewEvent,2023-08-10 17:50:40,Yuri Prykhodko,solid-software/solid_lints,Add avoid_global_state lint
+PullRequestReviewCommentEvent,2023-08-10 17:50:36,Yuri Prykhodko,solid-software/solid_lints,Add avoid_global_state lint
+PullRequestReviewEvent,2023-08-10 17:45:03,Yuri Prykhodko,solid-software/solid_lints,Add avoid_global_state lint
+PullRequestReviewEvent,2023-08-10 17:44:24,Yuri Prykhodko,solid-software/solid_lints,Add avoid_global_state lint
+PullRequestReviewEvent,2023-08-10 17:38:07,Yuri Prykhodko,solid-software/solid_lints,Add avoid_late_keyword lint
+PullRequestReviewCommentEvent,2023-08-10 17:42:00,Yuri Prykhodko,solid-software/solid_lints,Add avoid_non_null_assertion lint
+PullRequestReviewEvent,2023-08-10 17:42:29,Yuri Prykhodko,solid-software/solid_lints,Add avoid_non_null_assertion lint
+PullRequestReviewEvent,2023-08-10 17:38:53,Yuri Prykhodko,solid-software/solid_lints,Task/Add public badge
+PullRequestEvent,2023-08-10 14:37:17,Yuri Prykhodko,solid-software/solid_lints,Add linter for lines of code
+PullRequestReviewEvent,2023-08-10 14:37:08,Yuri Prykhodko,solid-software/solid_lints,Add linter for lines of code
+PullRequestReviewCommentEvent,2023-08-10 14:22:53,Yuri Prykhodko,solid-software/solid_lints,Add linter for lines of code
+PullRequestReviewEvent,2023-08-10 14:22:54,Yuri Prykhodko,solid-software/solid_lints,Add linter for lines of code
+PullRequestEvent,2023-08-10 14:21:16,Yuri Prykhodko,solid-software/solid_lints,Add missing tests for custom_lint
+PullRequestReviewEvent,2023-08-10 14:20:49,Yuri Prykhodko,solid-software/solid_lints,Add missing tests for custom_lint
+PullRequestReviewCommentEvent,2023-08-10 14:18:32,Yuri Prykhodko,solid-software/solid_lints,Add linter for lines of code
+PullRequestReviewEvent,2023-08-10 14:18:34,Yuri Prykhodko,solid-software/solid_lints,Add linter for lines of code
+PullRequestReviewCommentEvent,2023-08-10 14:17:04,Yuri Prykhodko,solid-software/solid_lints,Add linter for lines of code
+PullRequestReviewEvent,2023-08-10 14:17:06,Yuri Prykhodko,solid-software/solid_lints,Add linter for lines of code
+PullRequestReviewCommentEvent,2023-08-10 14:16:23,Yuri Prykhodko,solid-software/solid_lints,Add linter for lines of code
+PullRequestReviewEvent,2023-08-10 14:16:25,Yuri Prykhodko,solid-software/solid_lints,Add linter for lines of code
+PullRequestReviewEvent,2023-08-10 14:07:32,Yuri Prykhodko,solid-software/worklog,ownerId setter cherrypick
+PullRequestReviewCommentEvent,2023-08-10 14:06:22,Yuri Prykhodko,solid-software/worklog,TrialPopup
+PullRequestReviewEvent,2023-08-10 14:06:23,Yuri Prykhodko,solid-software/worklog,TrialPopup
+PullRequestReviewCommentEvent,2023-08-10 14:05:58,Yuri Prykhodko,solid-software/worklog,TrialPopup
+PullRequestReviewEvent,2023-08-10 14:06:00,Yuri Prykhodko,solid-software/worklog,TrialPopup
+PullRequestEvent,2023-08-10 11:38:00,Yuri Prykhodko,solid-software/solid_lints,Add number of parameters metric
+PullRequestReviewCommentEvent,2023-08-10 11:36:33,Yuri Prykhodko,solid-software/solid_lints,Add number of parameters metric
+PullRequestReviewEvent,2023-08-10 11:37:36,Yuri Prykhodko,solid-software/solid_lints,Add number of parameters metric
+PullRequestReviewEvent,2023-08-10 11:37:36,Yuri Prykhodko,solid-software/solid_lints,Add number of parameters metric
+PullRequestEvent,2023-08-10 11:32:57,Yuri Prykhodko,solid-software/solid_lints,Add code checks with GitHub Actions (resolves #30)
+PullRequestReviewEvent,2023-08-10 11:32:49,Yuri Prykhodko,solid-software/solid_lints,Add code checks with GitHub Actions (resolves #30)
+IssuesEvent,2023-08-09 15:18:54,Yuri Prykhodko,solid-software/solid_lints,Add Dart CI for lint implementations for release-v0.1.0
+PullRequestEvent,2023-08-09 15:17:13,Yuri Prykhodko,solid-software/solid_lints,Release v0.1.0 preview
+PullRequestEvent,2023-08-09 15:03:23,Yuri Prykhodko,solid-software/solid_lints,Pull changes from solid-metrics repository
+PullRequestReviewEvent,2023-08-09 13:41:48,Yuri Prykhodko,solid-software/solid_lints,Pull changes from solid-metrics repository
+PullRequestReviewCommentEvent,2023-08-09 13:39:45,Yuri Prykhodko,solid-software/solid_lints,Pull changes from solid-metrics repository
+PullRequestReviewEvent,2023-08-09 13:39:47,Yuri Prykhodko,solid-software/solid_lints,Pull changes from solid-metrics repository
+IssueCommentEvent,2023-08-09 12:56:16,Yuri Prykhodko,solid-software/solid_lints,Pull changes from solid-metrics repository
+PullRequestReviewCommentEvent,2023-08-09 12:50:58,Yuri Prykhodko,solid-software/solid_lints,Pull changes from solid-metrics repository
+PullRequestReviewEvent,2023-08-09 12:50:59,Yuri Prykhodko,solid-software/solid_lints,Pull changes from solid-metrics repository
+PullRequestReviewCommentEvent,2023-08-09 12:49:46,Yuri Prykhodko,solid-software/solid_lints,Pull changes from solid-metrics repository
+PullRequestReviewEvent,2023-08-09 12:49:48,Yuri Prykhodko,solid-software/solid_lints,Pull changes from solid-metrics repository
+PullRequestReviewCommentEvent,2023-08-09 12:47:54,Yuri Prykhodko,solid-software/solid_lints,Pull changes from solid-metrics repository
+PullRequestReviewEvent,2023-08-09 12:47:55,Yuri Prykhodko,solid-software/solid_lints,Pull changes from solid-metrics repository
+IssueCommentEvent,2023-08-09 12:47:02,Yuri Prykhodko,solid-software/solid_lints,Pull changes from solid-metrics repository
+PullRequestEvent,2023-08-09 12:46:06,Yuri Prykhodko,solid-software/solid_lints,Update Dart SDK version constraints
+PullRequestReviewEvent,2023-08-09 12:45:31,Yuri Prykhodko,solid-software/solid_lints,Update Dart SDK version constraints
+PullRequestReviewEvent,2023-08-09 12:45:13,Yuri Prykhodko,solid-software/solid_lints,Update Dart SDK version constraints
+PullRequestReviewEvent,2023-08-08 13:24:58,Yuri Prykhodko,solid-software/worklog,WLOG-361 User still exist in Administrator team table after User deleted own account
+PullRequestReviewCommentEvent,2023-08-08 13:24:57,Yuri Prykhodko,solid-software/worklog,WLOG-361 User still exist in Administrator team table after User deleted own account
+PullRequestReviewCommentEvent,2023-08-08 08:42:47,Yuri Prykhodko,solid-software/worklog,ownerId setter cherrypick
+PullRequestReviewEvent,2023-08-08 08:42:47,Yuri Prykhodko,solid-software/worklog,ownerId setter cherrypick
+PullRequestReviewEvent,2023-08-08 08:40:06,Yuri Prykhodko,solid-software/worklog,boolean refactor
+PullRequestReviewEvent,2023-08-07 18:45:48,Yuri Prykhodko,solid-software/worklog,`InjectionContainer` refactor cherrypick
+PullRequestReviewCommentEvent,2023-08-07 12:33:49,Yuri Prykhodko,solid-software/worklog,cherrypick from `payment-master`
+PullRequestReviewEvent,2023-08-07 12:33:50,Yuri Prykhodko,solid-software/worklog,cherrypick from `payment-master`
+PullRequestReviewCommentEvent,2023-08-07 12:12:29,Yuri Prykhodko,solid-software/worklog,ownerId setter cherrypick
+PullRequestReviewEvent,2023-08-07 12:12:30,Yuri Prykhodko,solid-software/worklog,ownerId setter cherrypick
+PullRequestReviewEvent,2023-08-04 17:30:33,Yuri Prykhodko,solid-software/worklog,Payment master worklog routes refactor
+PullRequestReviewEvent,2023-08-04 17:18:29,Yuri Prykhodko,solid-software/worklog,ownerId setter cherrypick
+PullRequestReviewCommentEvent,2023-08-04 17:18:28,Yuri Prykhodko,solid-software/worklog,ownerId setter cherrypick
+PullRequestReviewCommentEvent,2023-08-04 17:14:27,Yuri Prykhodko,solid-software/worklog,ownerId setter cherrypick
+PullRequestReviewEvent,2023-08-04 17:14:28,Yuri Prykhodko,solid-software/worklog,ownerId setter cherrypick
+PullRequestReviewCommentEvent,2023-08-04 16:17:41,Yuri Prykhodko,solid-software/worklog,ownerId setter cherrypick
+PullRequestReviewEvent,2023-08-04 16:17:42,Yuri Prykhodko,solid-software/worklog,ownerId setter cherrypick
+PullRequestReviewCommentEvent,2023-08-04 16:15:17,Yuri Prykhodko,solid-software/worklog,ownerId setter cherrypick
+PullRequestReviewEvent,2023-08-04 16:15:18,Yuri Prykhodko,solid-software/worklog,ownerId setter cherrypick
+PullRequestReviewCommentEvent,2023-08-04 16:13:03,Yuri Prykhodko,solid-software/worklog,ownerId setter cherrypick
+PullRequestReviewEvent,2023-08-04 16:13:04,Yuri Prykhodko,solid-software/worklog,ownerId setter cherrypick
+PullRequestReviewCommentEvent,2023-08-04 15:49:53,Yuri Prykhodko,solid-software/worklog,isTrialPeriodPopupVisible getter
+PullRequestReviewEvent,2023-08-04 15:49:54,Yuri Prykhodko,solid-software/worklog,isTrialPeriodPopupVisible getter
+PullRequestReviewEvent,2023-08-04 15:37:18,Yuri Prykhodko,solid-software/worklog,Task/Shift + Tab feature (Adaptive)
+PullRequestReviewCommentEvent,2023-08-04 15:29:03,Yuri Prykhodko,solid-software/worklog,Task/Shift + Tab feature (Adaptive)
+PullRequestReviewEvent,2023-08-04 15:29:04,Yuri Prykhodko,solid-software/worklog,Task/Shift + Tab feature (Adaptive)
+PullRequestReviewEvent,2023-08-03 18:43:50,Yuri Prykhodko,solid-software/worklog,Task/Shift + Tab feature (Adaptive)
+PullRequestReviewCommentEvent,2023-08-03 18:40:46,Yuri Prykhodko,solid-software/worklog,Task/Shift + Tab feature (Adaptive)
+PullRequestReviewEvent,2023-08-03 18:40:48,Yuri Prykhodko,solid-software/worklog,Task/Shift + Tab feature (Adaptive)
+PullRequestReviewCommentEvent,2023-08-03 18:35:25,Yuri Prykhodko,solid-software/worklog,Task/Shift + Tab feature (Adaptive)
+PullRequestReviewEvent,2023-08-03 18:35:26,Yuri Prykhodko,solid-software/worklog,Task/Shift + Tab feature (Adaptive)
+PullRequestReviewEvent,2023-08-03 18:30:56,Yuri Prykhodko,solid-software/worklog,Task/Shift + Tab feature (Adaptive)
+PullRequestReviewCommentEvent,2023-08-03 18:30:54,Yuri Prykhodko,solid-software/worklog,Task/Shift + Tab feature (Adaptive)
+PullRequestReviewCommentEvent,2023-08-03 18:29:32,Yuri Prykhodko,solid-software/worklog,Task/Shift + Tab feature (Adaptive)
+PullRequestReviewEvent,2023-08-03 18:29:33,Yuri Prykhodko,solid-software/worklog,Task/Shift + Tab feature (Adaptive)
+PullRequestReviewEvent,2023-08-03 18:26:24,Yuri Prykhodko,solid-software/worklog,Task/Shift + Tab feature (Adaptive)
+PullRequestReviewCommentEvent,2023-08-03 18:26:23,Yuri Prykhodko,solid-software/worklog,Task/Shift + Tab feature (Adaptive)
+PullRequestReviewCommentEvent,2023-08-03 18:23:04,Yuri Prykhodko,solid-software/worklog,Task/Shift + Tab feature (Adaptive)
+PullRequestReviewEvent,2023-08-03 18:23:05,Yuri Prykhodko,solid-software/worklog,Task/Shift + Tab feature (Adaptive)
+PullRequestReviewCommentEvent,2023-08-03 18:21:20,Yuri Prykhodko,solid-software/worklog,Task/Shift + Tab feature (Adaptive)
+PullRequestReviewEvent,2023-08-03 18:21:21,Yuri Prykhodko,solid-software/worklog,Task/Shift + Tab feature (Adaptive)
+PullRequestReviewCommentEvent,2023-08-03 18:20:11,Yuri Prykhodko,solid-software/worklog,Task/Shift + Tab feature (Adaptive)
+PullRequestReviewEvent,2023-08-03 18:20:12,Yuri Prykhodko,solid-software/worklog,Task/Shift + Tab feature (Adaptive)
+PullRequestReviewEvent,2023-08-03 15:20:12,Yuri Prykhodko,solid-software/worklog,SubscriptionPeriodSwitcher refactor
+PullRequestReviewCommentEvent,2023-08-03 15:20:08,Yuri Prykhodko,solid-software/worklog,SubscriptionPeriodSwitcher refactor
+PullRequestReviewEvent,2023-08-03 15:20:12,Yuri Prykhodko,solid-software/worklog,SubscriptionPeriodSwitcher refactor
